@@ -27,8 +27,7 @@ package com.lespea.cef.utils.tests;
 import com.lespea.cef.InvalidExtensionKey;
 import com.lespea.cef.utils.StringUtils;
 
-import junit.framework.Assert;
-
+import org.junit.Assert;
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 
