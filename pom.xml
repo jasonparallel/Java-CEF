@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.github.jasonparallel</groupId>
 	<artifactId>cef</artifactId>
-	<version>0.0.1</version>
+	<version>0.0.2-SNAPSHOT</version>
 	<name>common-event-format</name>
 	<description>Library to work with the common event format</description>
 	<properties>
